@@ -20,6 +20,6 @@ and much more.....
 
 I am a Enthusiastic and passionate learner, studying my third year in B.TECH specialized in Information Technology and i am a full stack web developer:blush: :computer:. I had undergone 4 internships on various cities as a web developer :city_sunrise:. Hoping for a better opportunity in an organisation where I can increase my calibre and contribute to the organisation :office:. My hobbies are listening to music, audio books :headphones:,reading books :book:, playing tennis :tennis: etc :heart:.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-fsdev)](https://github.com/Santhosh-fsdev/Santhosh-fsdev)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhosh-fsdev)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-fsdev)](https://github.com/Santhosh-fsdev/Santhosh-fsdev)
 
 ## Like this ?, support and encourage  :heart: me by giving a  :star2:
