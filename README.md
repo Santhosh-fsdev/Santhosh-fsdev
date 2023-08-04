@@ -1,13 +1,13 @@
 ## Hello from Santhosh Kumar Rajendran
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Santhosh-fsdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/santhosh-kumar-150265188/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://thirsty-tereshkova-2949d3.netlify.app/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/santhosh_fsdev/)     
-- 🔭 I’m currently working on [Web app for my college to manage online classes]( https://thirsty-tereshkova-2949d3.netlify.app/)
+- 🔭 I’m currently working at Virtusa
 - 🌱 I’m currently learning Devops.
 - 👯 I’m looking to collaborate on Open source projects.
 - 🤔 I’m looking for help with my career as a mentor.
 - 💬 Ask me about Full stack web devlopment
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/santhosh-kumar-150265188)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/santhosh-kumar-r-150265188/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend 6 hours in listening podcast, audio books.
+- ⚡ Fun fact: I love being talkative
 
 ![Profile views](https://gpvc.arturio.dev/Santhosh-fsdev)  <img src="https://img.shields.io/github/followers/Santhosh-fsdev?label=Follow" style=" float:left, margin-right:10px" /> [<img src="https://img.shields.io/badge/linkedin-follow-red" style=" float:left, margin-right:10px" />](https://www.linkedin.com/in/santhosh-kumar-150265188)
 ### Things i code with
